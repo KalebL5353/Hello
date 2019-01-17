@@ -1,6 +1,6 @@
 /**
- * Author: Chris Bourke
- * Date: 2016/11/02
+ * Author: Kaleb Larson
+ * Date: 2019/01/17
  *
  * A simple hello world program in C
  *
@@ -10,8 +10,10 @@
 
 int main(int argc, char **argv) {
 
-  printf("Kaleb Larson\n");
+  printf("Hello World!\n");
   printf("Computer Science\n");
+  printf("Josh Thiele\n");
+  printf("Actuarial Science");
 
   return 0;
 }
